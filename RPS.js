@@ -33,7 +33,6 @@ computerResult = 'rock';
 } else if (computerMove >= 2/3 && computerMove < 1) {
 computerResult = 'scissors';
 }
-console.log(computerResult);
 
 }
 
